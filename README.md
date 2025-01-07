@@ -3,4 +3,6 @@ Alternate music to replace the 5 basic music layers in Balatro. All tracks are o
 
 ## Installation:
 Requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Steamodded 1.0.0](https://github.com/Steamopollys/Steamodded)
-Place BalatroAltMusic folder in your mods folder (same folder as Steamodded)
+
+Place balatro_alt_music folder in your mods folder (same folder as Steamodded)
+Use the latest release for downloading
